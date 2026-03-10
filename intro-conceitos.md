@@ -160,7 +160,8 @@ Classe em Java pode ser comparada a uma struct em C:
 ```c
 struct Conta {
     double saldo;
-};```
+};
+```
 
 Porém, em Java, variáveis de objetos funcionam de forma semelhante a ponteiros, pois armazenam referências para objetos na memória.
 
